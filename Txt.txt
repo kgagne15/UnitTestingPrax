@@ -1,0 +1,23 @@
+I could not figure out this assignment at all and had to rely on the provided solutions. I will go over this assignment with my mentor in the next session. 
+
+Issues: 
+
+1. I could not understand what functionality the assignment wanted me to add
+2. I could not add the appropriate functionality
+3. I found that the test solutions were more complex than those shown in the videos and I was not able to follow most of the time
+4. The below function copied from the solution results in an error in Jasmine and I cannot determine why
+
+// it('should payment update #paymentTable on appendPaymentTable()', function () {
+    //     let curPayment = createCurPayment();
+    //     allPayments['payment1'] = curPayment;
+    
+    //     appendPaymentTable(curPayment);
+    
+    //     let curTdList = document.querySelectorAll('#paymentTable tbody tr td');
+    
+    //     expect(curTdList.length).toEqual(4);
+    //     expect(curTdList[0].innerText).toEqual('$100');
+    //     expect(curTdList[1].innerText).toEqual('$20');
+    //     expect(curTdList[2].innerText).toEqual('20%');
+    //     expect(curTdList[3].innerText).toEqual('X');
+    //   });
