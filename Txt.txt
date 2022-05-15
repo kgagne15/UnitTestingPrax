@@ -21,3 +21,6 @@ Issues:
     //     expect(curTdList[2].innerText).toEqual('20%');
     //     expect(curTdList[3].innerText).toEqual('X');
     //   });
+
+
+I tried making the simplest of all functions and testing them as a form of practice that was easier than that which was provided in the unit.
